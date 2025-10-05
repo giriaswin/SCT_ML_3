@@ -1,3 +1,1 @@
-# SCT_ML_3
-
-Dogs Vs. Cats
+# Dogs Vs. Cats
